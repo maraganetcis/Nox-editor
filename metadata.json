@@ -1,0 +1,6 @@
+{
+  "name": "NOX Studio - Tablet & Web IDE",
+  "description": "Interactive Tablet & Web IDE and interpreter playground for the NOX programming language with live visual output and debugger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
